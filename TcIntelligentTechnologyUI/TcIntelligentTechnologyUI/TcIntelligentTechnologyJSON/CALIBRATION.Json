@@ -1,0 +1,15 @@
+[
+{"chessImagePath":"C:\\Users\\TC-Xyb\\Desktop\\20220607\\TcIntelligentTechnology\\TcIntelligentTechnologyImage\\boxp",
+"path_cameraMatrixXML":"C:\\Users\\TC-Xyb\\Desktop\\20220607\\TcIntelligentTechnology\\TcIntelligentTechnologyINFO",
+"path_rvecsXML":"C:\\Users\\TC-Xyb\\Desktop\\20220607\\TcIntelligentTechnology\\TcIntelligentTechnologyINFO",
+"path_tvecsXML":"C:\\Users\\TC-Xyb\\Desktop\\20220607\\TcIntelligentTechnology\\TcIntelligentTechnologyINFO",
+"path_distCoeffsXML":"C:\\Users\\TC-Xyb\\Desktop\\20220607\\TcIntelligentTechnology\\TcIntelligentTechnologyINFO",
+"image_size_Width":"1600",
+"image_size_Height":"1200",
+"corners_size_Width":"4",
+"corners_size_Height":"3",
+"chess_square_size":"5",
+"imageNum":"7",
+"total_error":"1"},
+
+]

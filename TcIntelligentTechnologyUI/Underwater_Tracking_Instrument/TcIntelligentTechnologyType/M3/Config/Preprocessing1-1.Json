@@ -1,0 +1,7 @@
+[
+{"FilterModel":"Pass Through","ID":"Z","ValueMin":"700.00","ValueMax":"1600.00","SplitLeafX":"1","SplitLeafY":"1","SplitLeafZ":"1","SplitMeanK":"100","SplitStddevMulThresh":"10","SplitOperator":"GT大于","SplitCompareVal":"70","SplitRadius":"0.8","SplitMinPts":"2"},
+{"FilterModel":"Pass Through","ID":"X","ValueMin":"0","ValueMax":"100","SplitLeafX":"0.2","SplitLeafY":"0.2","SplitLeafZ":"0.2","SplitMeanK":"100","SplitStddevMulThresh":"10","SplitOperator":"GT大于","SplitCompareVal":"70","SplitRadius":"0.8","SplitMinPts":"2"},
+{"FilterModel":"Pass Through","ID":"X","ValueMin":"0","ValueMax":"100","SplitLeafX":"1","SplitLeafY":"1","SplitLeafZ":"1","SplitMeanK":"1","SplitStddevMulThresh":"1","SplitOperator":"GT大于","SplitCompareVal":"70","SplitRadius":"0.8","SplitMinPts":"2"},
+{"FilterModel":"Pass Through","ID":"X","ValueMin":"0","ValueMax":"100","SplitLeafX":"1","SplitLeafY":"1","SplitLeafZ":"1","SplitMeanK":"100","SplitStddevMulThresh":"10","SplitOperator":"","SplitCompareVal":"1.00","SplitRadius":"0.8","SplitMinPts":"2"},
+{"FilterModel":"Pass Through","ID":"X","ValueMin":"0","ValueMax":"100","SplitLeafX":"1","SplitLeafY":"1","SplitLeafZ":"1","SplitMeanK":"100","SplitStddevMulThresh":"10","SplitOperator":"GT大于","SplitCompareVal":"2","SplitRadius":"10","SplitMinPts":"2"}
+]

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserInfo>
+  <User Name="Operator1">
+    <Pwd>QhUamtNzsTw=</Pwd>
+    <Level>1</Level>
+  </User>
+  <User Name="Operator2">
+    <Pwd>Dzb6c66Ur5E=</Pwd>
+    <Level>1</Level>
+  </User>
+  <User Name="Engineer">
+    <Pwd>Bp00YfF008g=</Pwd>
+    <Level>2</Level>
+  </User>
+  <User Name="Administrator">
+    <Pwd>sV3EfKmDFnk=</Pwd>
+    <Level>3</Level>
+  </User>
+</UserInfo>

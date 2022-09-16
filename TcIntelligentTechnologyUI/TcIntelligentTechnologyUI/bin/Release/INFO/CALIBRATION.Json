@@ -1,0 +1,4 @@
+[
+{"ChessImagePath":"Calibration\\boxp","Path_cameraMatrixXML":"Calibration\\Path_cameraMatrixXML.xml","Path_rvecsXML":"Calibration\\Path_rvecsXML.xml","Path_tvecsXML":"Calibration\\Path_tvecsXML.xml","Path_distCoeffsXML":"Calibration\\Path_distCoeffsXML.xml","Image_size_Width":1280,"Image_size_Height":1024,"Corners_size_Width":10,"Corners_size_Height":7,"Chess_square_size":1,"ImageNum":9,"Total_error":1.0,"LaserImagePath":"Calibration\\txt","LightOrder":0,"LightPointPath":"Calibration","ProductLaserImagePath":"Images\\220727\\105442","imgNumber":640,"heightLowerLimit":287,"heightHigherLimit":991,"widthLowerLimit":322,"widthHigherLimit":513,"diameter_topSurface":49,"diameter_bottomSurface":49,"heightPointCloud":1280,"offset":76.4,"X1":647,"Y1":301,"X2":823,"Y2":301,"offset_Avg":1.05,"compare_Max":6.2,"compare_Min":5.9,"number_OK":6.0,"number_NG":8.0,"percentageToIgnore":0.1},
+
+]

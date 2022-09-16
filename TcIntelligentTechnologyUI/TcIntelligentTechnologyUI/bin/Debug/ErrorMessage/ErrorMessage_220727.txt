@@ -1,0 +1,6 @@
+153749:索引超出了数组界限。|System.Windows.Forms|   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 TcIntelligentTechnologyUI.CForms.formHOME.getVisionProPoints(CALIBRATIONMODEL model) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 237
+154724:索引超出了数组界限。|System.Windows.Forms|   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 TcIntelligentTechnologyUI.CForms.formHOME.getVisionProPoints(CALIBRATIONMODEL model) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 237

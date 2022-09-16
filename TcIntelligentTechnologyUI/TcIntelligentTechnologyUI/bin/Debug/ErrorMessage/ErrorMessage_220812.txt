@@ -1,0 +1,18 @@
+150434:当前线程不在单线程单元中，因此无法实例化 ActiveX 控件“0c009349-6ef1-11d4-9751-0060089571fc”。|System.Windows.Forms|   在 System.Windows.Forms.AxHost..ctor(String clsid, Int32 flags)
+   在 Cognex.VisionPro.Display.CogDisplay..ctor()
+   在 UnderwaterTrackingInstrument.UserControl_Display.InitializeComponent() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.Designer.cs:行号 69
+   在 UnderwaterTrackingInstrument.UserControl_Display..ctor() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.cs:行号 932
+   在 TcIntelligentTechnologyUI.CForms.formHOME..ctor() 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 38
+   在 TcIntelligentTechnologyUI.CForms.formLOAD.timerCall(Object sender, ElapsedEventArgs e) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formLOAD.cs:行号 75
+150455:当前线程不在单线程单元中，因此无法实例化 ActiveX 控件“0c009349-6ef1-11d4-9751-0060089571fc”。|System.Windows.Forms|   在 System.Windows.Forms.AxHost..ctor(String clsid, Int32 flags)
+   在 Cognex.VisionPro.Display.CogDisplay..ctor()
+   在 UnderwaterTrackingInstrument.UserControl_Display.InitializeComponent() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.Designer.cs:行号 69
+   在 UnderwaterTrackingInstrument.UserControl_Display..ctor() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.cs:行号 932
+   在 TcIntelligentTechnologyUI.CForms.formHOME..ctor() 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 38
+   在 TcIntelligentTechnologyUI.CForms.formLOAD.timerCall(Object sender, ElapsedEventArgs e) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formLOAD.cs:行号 75
+150542:当前线程不在单线程单元中，因此无法实例化 ActiveX 控件“0c009349-6ef1-11d4-9751-0060089571fc”。|System.Windows.Forms|   在 System.Windows.Forms.AxHost..ctor(String clsid, Int32 flags)
+   在 Cognex.VisionPro.Display.CogDisplay..ctor()
+   在 UnderwaterTrackingInstrument.UserControl_Display.InitializeComponent() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.Designer.cs:行号 69
+   在 UnderwaterTrackingInstrument.UserControl_Display..ctor() 位置 D:\TcIntelligentTechnology\Underwater_Tracking_Instrument\UserControl_Display.cs:行号 932
+   在 TcIntelligentTechnologyUI.CForms.formHOME..ctor() 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 38
+   在 TcIntelligentTechnologyUI.CForms.formLOAD.timerCall(Object sender, ElapsedEventArgs e) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formLOAD.cs:行号 75

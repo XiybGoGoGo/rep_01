@@ -1,0 +1,4 @@
+[
+{"M_Vm":600.0,"M_CurCmd":0.0,"M_ActCmd":0.0,"M_IOStatus":0,"M_Vel":0.0,"M_Hand":{"value":0},"M_selectAxis":1,"M_State":0,"M_VelLow":0.0,"M_VelHigh":0.0,"M_Acc":400.0,"M_Dec":400.0,"M_CmpPosition":0.0,"M_CompareStart":40,"M_CompareInterval":40,"M_CompareTimes":640,"M_CompareEnd":0,"M_Pulse":25600},
+
+]

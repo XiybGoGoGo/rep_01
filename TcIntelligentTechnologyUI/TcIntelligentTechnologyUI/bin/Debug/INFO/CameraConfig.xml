@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parameter>
+  <Camera SerialNumber="00J34891727">
+    <Exposure>1800</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera SerialNumber="00J53806559">
+    <Exposure>1200</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera SerialNumber="003">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera SerialNumber="004">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+</Parameter>

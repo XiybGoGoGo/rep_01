@@ -1,0 +1,4 @@
+D:\TcIntelligentTechnology\InternalStructure\obj\Debug\InternalStructure.csprojAssemblyReference.cache
+D:\TcIntelligentTechnology\InternalStructure\obj\Debug\InternalStructure.formHome.resources
+D:\TcIntelligentTechnology\InternalStructure\obj\Debug\InternalStructure.csproj.GenerateResource.cache
+D:\TcIntelligentTechnology\InternalStructure\obj\Debug\InternalStructure.csproj.CoreCompileInputs.cache

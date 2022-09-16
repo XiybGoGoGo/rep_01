@@ -1,0 +1,3 @@
+140136:无法加载 DLL“APS168x64.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。|TcIntelligentTechnologyBLL|   在 TcIntelligentTechnologyBLL.APS168x64Helper.ADLINK_APS168.APS_initial(Int32& BoardID_InBits, Int32 Mode)
+   在 TcIntelligentTechnologyBLL.ADLINK_204CHelper.InitializeCard(Int32 cardId, Int32 mode) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyBLL\TCTechnology_Helper\ADLINK_204CHelper.cs:行号 66
+   在 TcIntelligentTechnologyUI.CForms.formLOAD.timerCall(Object sender, ElapsedEventArgs e) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formLOAD.cs:行号 101

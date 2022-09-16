@@ -1,0 +1,8 @@
+D:\TcIntelligentTechnology\LineScan3DCamera\bin\Debug\LineScan3DCamera.dll
+D:\TcIntelligentTechnology\LineScan3DCamera\bin\Debug\LineScan3DCamera.pdb
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.csprojAssemblyReference.cache
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.LineScan.resources
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.csproj.GenerateResource.cache
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.csproj.CoreCompileInputs.cache
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.dll
+D:\TcIntelligentTechnology\LineScan3DCamera\obj\Debug\LineScan3DCamera.pdb

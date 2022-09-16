@@ -1,0 +1,9 @@
+[
+{"ProductName":"D50","CamNumber":1,"NewProductName":null,"ProVersion":"V1.1","SaveOKImages":false,"SaveNGImages":false,"SaveImageDays":30,"SaveAccessDay":90,"TotalRun":88,"TotalFail":0},
+{"ProgUserName":"操作员","OperatorPsw":"Operator","EngineerPsw":"Engineer","AdminPsw":"Admin","Priority":0},
+{"INI_Path":"C:\\TC\\TuChuang_V1.12_2022.05.09\\jitrimnai V1.4\\\\Setting\\Setting.dat","Setting_Json_Path":"C:\\TC\\TuChuang_V1.12_2022.05.09\\jitrimnai V1.4\\\\Setting\\Info.Json","CogTool_Path":"C:\\TC\\TuChuang_V1.12_2022.05.09\\jitrimnai V1.4\\\\Type","ProductInfo_Json_Path":null,"Data_Path":"C:\\Data","Image_Path":"D:\\Images","Access_Path":null,"Vision_Json_Path":"C:\\TC\\TuChuang_V1.12_2022.05.09\\jitrimnai V1.4\\\\Type\\D50\\Info.Json","Vision_Public_Json_Path":"C:\\TC\\TuChuang_V1.12_2022.05.09\\jitrimnai V1.4\\\\Type\\D50\\Info_To.Json"},
+{"CamType":null,"CamID":0,"GrabExpose":0.0,"CamSerialNumber":"","TriggerNum":0},
+{"Type":null,"IP":"192.168.2.120","Port":502,"ReciveMes":null},
+{"SQL_Type":"Access","IP":"127.0.0.1","Port":"8000","UserID":"admin","PassWord":"admin","DataBaseName":"DataBase","TableName":"Table"},
+
+]

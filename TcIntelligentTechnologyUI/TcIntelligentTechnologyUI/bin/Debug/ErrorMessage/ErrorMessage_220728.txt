@@ -1,0 +1,3 @@
+142848:INSERT INTO 语句的语法错误。|Microsoft Access Database Engine|   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 TcIntelligentTechnologyUI.CForms.formHOME.getVisionProPoints(CALIBRATIONMODEL model) 位置 D:\TcIntelligentTechnology\TcIntelligentTechnologyUI\CForms\formHOME.cs:行号 237

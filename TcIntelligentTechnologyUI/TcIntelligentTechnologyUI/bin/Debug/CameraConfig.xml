@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parameter>
+  <Camera MAC="001">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera MAC="002">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera MAC="003">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+  <Camera MAC="004">
+    <Exposure>10</Exposure>
+    <Brightness>0</Brightness>
+  </Camera>
+</Parameter>
